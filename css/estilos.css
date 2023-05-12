@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header__nav__derecha{
+    text-align: right;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+a{
+    color: red;
+  }
+  
+  a:hover{
+    color: white;
+  }
+  
+  a:active{
+    color: orange;
+  }
+
+.header__imgRedonda {
+    width:400px;
+    height:300px;
+    border-radius:250px;
+    padding: 10px;
+}
+
+.section__imgcentrales {
+    width:630px;
+    height:500px;
+}
+
+.section__div__color{
+    font-size: x-large;
+    font-family: cursive;
+    color: red
+}
+
+header{
+    background-image: url(../assets/images/portada.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+main{
+    background-color: black
+    }
+
+footer{
+        font-family: cursive;
+    }
